@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jai Sreedhar
-- 👀 I’m interested in ...E&E
-- 🌱 I’m currently working as a R&D hardware developer
-- 💞️ I’m looking to collaborate on latest technologies
-- 📫 reach me at 7358688722
+- 👀 interested in ...E&E
+- 🌱 working as a R&D hardware developer
+-  📫 reach me at 7358688722
 - ⚡ Fun fact: ... EEE is easy
 
 <!---
